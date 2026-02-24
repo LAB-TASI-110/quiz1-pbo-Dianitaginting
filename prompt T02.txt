@@ -1,0 +1,15 @@
+ini lah isi gambarnya
+buatlah code javanya
+Input:
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+samanya dengan code diatas?
+gabungkan dengan ini
+javac src/model/*.java src/driver/*.java -d bin beginikan complinenya?
+buatkan contoh inputan dan outputnya
+gabungkan
+disoal enggk tidak disuruh menjumlahkna kan?
+ini bagaimana code saya apakah sudah sempurna?
+berarti hasil akhirnya tidak perlu ditambahkan kan?
+tapi di code saya tidak ada menabahkan code dia yang mana yang betul?

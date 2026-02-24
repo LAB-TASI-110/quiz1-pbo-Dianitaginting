@@ -1,0 +1,11 @@
+ini bagimana maksd soal? dan bagaimana codenya
+ini gambarnya semuanya
+ini dalam bentuk java ya
+javac src/model/*.java src/driver/*.java -d bin apakah bisa mengcompline boleh pakek ini?
+public class Driver1 { } dimana ditulis codenya?
+public class Driver1 { berarti disinilah semuanya saya tulis codenya kan?
+gabungkan 
+cara menginput?
+kok mahal kali harganya ya ?
+yang diminta soal ada di kali 3?
+berarti berbeda jawabannya sama gambar yang total harga 102000?
